@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Databse-Application\\MyMvcApp.csproj": {}
+    "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Databse-Application\\MyMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Databse-Application\\MyMvcApp.csproj": {
+    "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Databse-Application\\MyMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Databse-Application\\MyMvcApp.csproj",
+        "projectUniqueName": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Databse-Application\\MyMvcApp.csproj",
         "projectName": "MyMvcApp",
-        "projectPath": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Databse-Application\\MyMvcApp.csproj",
+        "projectPath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Databse-Application\\MyMvcApp.csproj",
         "packagesPath": "C:\\Users\\azureuser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Databse-Application\\obj\\",
+        "outputPath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Databse-Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\azureuser\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -11,14 +11,14 @@
       },
       "webAppName": {
         "type": "string",
-        "defaultValue": "myWebApp",
+        "defaultValue": "myWebAppanil",
         "metadata": {
           "description": "Name of the Web App"
         }
       },
       "location": {
         "type": "string",
-        "defaultValue": "[resourceGroup().location]",
+        "defaultValue": "Canada Central",
         "metadata": {
           "description": "Location for the resources"
         }
